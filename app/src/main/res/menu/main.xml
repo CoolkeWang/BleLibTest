@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:coolke="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/btn_search"
+        android:icon="@android:drawable/ic_search_category_default"
+        coolke:showAsAction="always"
+        android:title="扫描"/>
+</menu>

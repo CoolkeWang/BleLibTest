@@ -199,5 +199,5 @@ mBleService.writeCharacteristic(BluetoothGattCharacteristic characteristic, byte
 ```
 
 项目地址:https://github.com/CoolkeWang/BleLibTest<br/>
-博客地址:http://blog.csdn.net/q531934288/article/details/51729158
+博客地址:http://blog.csdn.net/q531934288/article/details/51729158<br/>
 开源库地址:https://github.com/junkchen/BleLib

@@ -198,6 +198,6 @@ mBleService.readCharacteristic(BluetoothGattCharacteristic characteristic);//读
 mBleService.writeCharacteristic(BluetoothGattCharacteristic characteristic, byte[] value);//写入数据 
 ```
 
-项目地址:https://github.com/CoolkeWang/BleLibTest
+项目地址:https://github.com/CoolkeWang/BleLibTest<br/>
 博客地址:http://blog.csdn.net/q531934288/article/details/51729158
 开源库地址:https://github.com/junkchen/BleLib

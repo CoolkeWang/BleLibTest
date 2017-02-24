@@ -97,12 +97,14 @@ mBleService.setOnLeScanListener(new BleService.OnLeScanListener() {
            }
        }
    };
-
+ ```
+ 
 ##第六步连接Ble服务
-```Java
-mBleService.connect(String address);//连接Ble  
-mBleService.disconnect();//取消连接  
-```
+ ```Java
+mBleService.connect(String address);//连接Ble
+mBleService.disconnect();//取消连接
+ ```
+ 
 接受连接状态的方式也有两种
 
  - 监听器方式
